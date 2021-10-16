@@ -1,0 +1,1 @@
+Some conflicting features and a further removal to induce a conflict which can be resolved.
